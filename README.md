@@ -32,8 +32,10 @@ Petal is an intelligent, empathetic AI chatbot that provides comprehensive menst
 
 ### Prerequisites
 - Python 3.8+
-- OpenAI API key
+- **OpenAI API key** (required - get yours at https://platform.openai.com/api-keys)
 - Streamlit
+
+**💡 Note**: This project requires your own OpenAI API key for full functionality. The AI-powered features including context understanding, crisis detection, and personalized responses depend on OpenAI services.
 
 ### Installation
 
@@ -50,9 +52,14 @@ Petal is an intelligent, empathetic AI chatbot that provides comprehensive menst
 
 3. **Set up environment variables**
    ```bash
-   # Create .env file
+   # Create .env file with your own OpenAI API key
    echo "OPENAI_API_KEY=your_openai_api_key_here" > .env
    ```
+   
+   **⚠️ Important: You must use your own OpenAI API key**
+   - Get your API key from: https://platform.openai.com/api-keys
+   - Petal requires OpenAI access for AI-powered responses and context understanding
+   - Keep your API key secure and never commit it to version control
 
 4. **Initialize medical database** (Optional - for enhanced responses)
    ```bash
@@ -106,13 +113,23 @@ AI Router (graphrag_retriever.py)
 ### Environment Variables
 
 ```bash
-# Required
+# Required - You must provide your own OpenAI API key
 OPENAI_API_KEY=your_openai_api_key_here
+
+# Get your API key from: https://platform.openai.com/api-keys
+# Keep this secure and never commit to version control
 
 # Optional (for enhanced features)
 LANGCHAIN_API_KEY=your_langchain_api_key
 PINECONE_API_KEY=your_pinecone_api_key (if using Pinecone instead of FAISS)
 ```
+
+**🔑 OpenAI API Key Setup:**
+1. Visit https://platform.openai.com/api-keys
+2. Create a new API key
+3. Add billing information to your OpenAI account
+4. Set usage limits to control costs
+5. Add the key to your `.env` file
 
 ### Configuration Files
 
@@ -445,7 +462,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Petal provides educational information only and cannot replace professional medical advice. Always consult healthcare providers for personalized medical guidance.
 
 **Privacy Inquiries**
-For questions about data handling and privacy practices, please see our privacy policy or contact our privacy team.
+For questions about data handling and privacy practices, please see our privacy policy or contact our privacy team at maurya.ad@northeastern.edu.
 
 ---
 
