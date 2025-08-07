@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f8ff;
+}
+
+h1, h2, h3, h4 {
+    color: #3a3a3a;
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+.stButton button {
+    background-color: #f06292;
+    color: white;
+    border-radius: 12px;
+    padding: 10px 20px;
+    border: none;
+}
+
+.stTextInput>div>div>input {
+    background-color: #fff3f6;
+    border-radius: 10px;
+    border: 1px solid #f06292;
+}
+
+.reportview-container .main {
+    background: linear-gradient(to top left, #ffe5ec, #f5f8ff);
+}

@@ -1,0 +1,28 @@
+# errors.txt - Created 2025-08-02 11:10:04
+# Petal App Logs
+
+[2025-08-02 11:10:04] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 11:10:22] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 11:11:10] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 11:15:28] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 11:23:39] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 14:47:34] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 14:49:17] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 15:01:42] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 15:31:47] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 15:37:56] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 15:51:20] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-02 15:52:24] Chat error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-08-04 18:00:02] Chat error: maximum recursion depth exceeded
+[2025-08-04 18:00:16] Chat error: maximum recursion depth exceeded
+[2025-08-04 18:38:13] CRISIS DETECTED - UserID: user_001
+[2025-08-04 19:38:40] CRISIS DETECTED - UserID: user_001
+[2025-08-04 19:39:44] CRISIS DETECTED - UserID: user_001
+[2025-08-04 21:33:46] CRISIS DETECTED - UserID: user_001
+[2025-08-04 21:53:33] CRISIS DETECTED - UserID: user_001
+[2025-08-05 03:46:36] CRISIS DETECTED - UserID: user_001
+[2025-08-05 03:46:57] CRISIS DETECTED - UserID: user_001
+[2025-08-05 14:24:49] CRISIS DETECTED - UserID: user_001
+[2025-08-05 15:08:58] CRISIS DETECTED - UserID: user_001
+[2025-08-05 16:23:24] CRISIS DETECTED - UserID: user_001
+[2025-08-05 16:23:24] CRISIS DETECTED - UserID: user_001

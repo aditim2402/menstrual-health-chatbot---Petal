@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "What are the warning signs that mean I need medical help?",
+    "query": "The text doesn't provide specific information about the warning signs that indicate the need for medical help.",
+    "response": "neutral",
+    "timestamp": "2025-07-29T00:58:42.025654"
+  },
+  {
+    "user_id": "How do I know what size menstrual cup to get?",
+    "query": "Sorry, I couldn't find specific info on that topic. Try rephrasing?",
+    "response": "neutral",
+    "timestamp": "2025-07-29T00:59:15.474992"
+  },
+  {
+    "user_id": "Why is my period irregular - sometimes 25 days, sometimes 35?",
+    "query": "Sorry, I couldn't find specific info on that topic. Try rephrasing?",
+    "response": "neutral",
+    "timestamp": "2025-07-29T00:59:54.786908"
+  }
+]

@@ -1,0 +1,7 @@
+# Petal Feedback Log
+[2025-08-01 19:21:38] Type: 💡 Suggestion | Feedback: hello
+[2025-08-01 19:22:04] Type: 💖 Compliment | Feedback: very nice
+[2025-08-01 19:25:08] Type: 📱 Feature Request | Feedback: improve the background
+[2025-08-02 10:48:51] Type: 💖 Sweet Compliment | Feedback: beautiful app
+[2025-08-05 13:49:54] Type: 💖 Sweet Compliment | Feedback: Love the ui
+[2025-08-05 18:38:32] Type: 💡 Bright Suggestion | Feedback: nice

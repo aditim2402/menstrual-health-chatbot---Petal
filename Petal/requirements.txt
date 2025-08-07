@@ -1,0 +1,16 @@
+streamlit
+langchain
+openai
+faiss-cpu
+python-dotenv
+networkx
+pandas
+matplotlib
+langgraph
+langsmith
+whisper
+SpeechRecognition
+PyAudio
+deep_translator
+tiktoken
+duckduckgo-search
