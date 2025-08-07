@@ -438,7 +438,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Technical Support**
 - **GitHub Issues**: Report bugs and feature requests
-- **Email**: support@petal-health.ai (if applicable)
+- **Email**: maurya.ad@northeastern.edu
 - **Documentation**: Comprehensive guides in `/docs` folder
 
 **Medical Disclaimer**
